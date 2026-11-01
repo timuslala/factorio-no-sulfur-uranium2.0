@@ -1,10 +1,10 @@
 {
-  "name": "nosulfer_uranium",
-  "version": "0.1.0",
+  "name": "nosulfur_uranium2",
+  "version": "0.1.1",
   "title": "No Sulfur Uranium",
   "author": "astroblade87",
-  "factorio_version": "1.1",
-  "dependencies": ["base >= 1.1"],
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
   "description": "This mod removes the need for sulphic acid when mining uranium."
 }
 
